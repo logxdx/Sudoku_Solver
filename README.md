@@ -1,11 +1,12 @@
 # Sudoku
 
-Simple Sudoku Solver and Generator. `Space` to Generate a new Sudoku, `Enter` to solve the current Sudoku, `Esc` to clear the board. Use arrow keys or mouse to select squares.
+Simple Sudoku Solver and Generator.
 
-Board size can be between 2 and 5 squares per box, limited by available alphanumeric characters. Run `gui.go` to play.
+- `Space` to Generate a new Sudoku
+- `Enter` to solve the current Sudoku
+- `Esc` to clear the board.
+- Use arrow keys or mouse to select squares.
 
-<br />
+Board size can be between 2 and 5 squares per box, limited by available alphanumeric characters. 
 
-<p align="center">
-    <img src="https://github.com/AlexEidt/docs/blob/master/Sudoku/sudoku.gif" width="100%" alt="Sudoku Engine">
-</p>
+Run `gui.go` to play.
